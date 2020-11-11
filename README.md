@@ -8,6 +8,8 @@ I used a toolkit for getting the necessary datas. The toolkit can be found here:
 
 I set up the compulsary flags and settings in the toolkit, so the user doesn't have to. I didn't write about these details, but in the link above it can be read.
 
+The hyperparameters were chosen based on experimentation and recommendations.
+
 The logs file can be found in this Google Drive directory: [link](https://drive.google.com/drive/folders/1UGNP5xxmJBi1rSNGhlgMMS6hZDYlBaob?usp=sharing)
 
 As for the results, it can be seen on the test result, that it was a successful training. Altough I would say, the network may overfitted the dataset.
