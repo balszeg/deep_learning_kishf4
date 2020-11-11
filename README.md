@@ -6,7 +6,7 @@ The given task was that, to choose 3 different category from Google Open Image d
 
 I used a toolkit for getting the necessary datas. The toolkit can be found here: [link](https://github.com/EscVM/OIDv4_ToolKit)
 
-I set up the compulsary flags and settings in toolkit, so the user don't have to. I didn't write about these details, but in the link above it can be read.
+I set up the compulsary flags and settings in the toolkit, so the user doesn't have to. I didn't write about these details, but in the link above it can be read.
 
 The logs file can be found in this Google Drive directory: [link](https://drive.google.com/drive/folders/1UGNP5xxmJBi1rSNGhlgMMS6hZDYlBaob?usp=sharing)
 
